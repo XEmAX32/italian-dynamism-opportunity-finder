@@ -22,4 +22,4 @@ file backend/interviewer.ts
 il valore della piattaforma è sì nell'avere un'ampia selezione di opportunità, ma anche nel fatto che queste siano sempre aggiornate, quindi c'è uno scraper llm powered che aggiorna i dati a db (oggi notion)
 file backend/scraper.ts
 
-qui il link al db [opportunità] (https://resisted-antelope-d53.notion.site/ec1791d02862437989d02c897eb14abd?v=d3c26c5274bc4fbca0a648d173380770&pvs=4) 
+qui il link al db [opportunità](https://resisted-antelope-d53.notion.site/ec1791d02862437989d02c897eb14abd?v=d3c26c5274bc4fbca0a648d173380770&pvs=4) 
