@@ -1,0 +1,227 @@
+[
+  Document {
+    id_: "e56901f4-c530-4314-820d-7931002d656f",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    First Ascent is an exclusive, four-day, all-expenses-paid r"... 1012 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "2e0e9c4e-2212-4597-89cb-85a5862e718f",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    First Ascent Business is a weekend-long event for Italy’s m"... 1125 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "82e3bd40-7a32-4e58-949b-0cdb9318cc2d",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The Y Combinator Pioneer Internship Program for Summer 2024"... 880 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "d4924982-6e7e-4c83-af85-be86b8974ae8",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The MLH Fellowship is a 12-week internship alternative for "... 1295 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "3cfd18be-99ad-4b2e-892e-b23731fe4c95",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    First Ascent is an exclusive, four-day, all-expenses-paid r"... 1028 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "083bf934-1421-45b8-a859-a68e42bcf9fe",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The First Check Fellowship offers up to $150k investment, a"... 566 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "e5457142-0c3f-4ce9-acf6-4f993b30f152",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The Effective Altruism Infrastructure Fund aims to increase"... 1331 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "4bb92c78-5d69-4437-95cb-c27d99a8f562",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The transcript does not provide a concrete description of a"... 996 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "44c0cd64-7721-47cf-9d5f-7fb29bf7e557",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The Inflection Grants offer a $2,000 grant to individuals u"... 801 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "bc42a5c1-50d8-4cde-9e70-75f0effaa31b",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The Longevity Biotech Fellowship offers an opportunity to j"... 1347 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "9872e11b-7ae9-4dec-84d2-cdce23be0844",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The O'Shaughnessy Fellowships offer an opportunity for indi"... 597 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "c7b91b21-dc52-40aa-b620-bf8215a1b5f5",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The Survival and Flourishing Fund (SFF) offers financial su"... 1368 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "3d5fec73-3a1a-4954-8f00-9ccb09b3120b",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The James Buchanan Fellowship is a one-year program aimed a"... 1234 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "16d7ac79-8f4e-4014-8db2-adaded55c677",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The Don Lavoie Fellowship is an online, semester-long progr"... 1520 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  },
+  Document {
+    id_: "bb566018-6d46-443b-bc45-6d67b4d943c0",
+    embedding: undefined,
+    metadata: {},
+    excludedEmbedMetadataKeys: [],
+    excludedLlmMetadataKeys: [],
+    relationships: {},
+    text: "\n" +
+      "    DESCRIPTION OF THE OPPORTUNITY:\n" +
+      "    The beVisioneers Fellowship Program is designed for young i"... 934 more characters,
+    textTemplate: "",
+    startCharIdx: undefined,
+    endCharIdx: undefined,
+    metadataSeparator: "\n"
+  }
+]

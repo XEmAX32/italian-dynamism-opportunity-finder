@@ -1,0 +1,50 @@
+body {
+  color: white;
+}
+
+.header {
+  width: 100vw;
+  height: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.title {
+  color: #FFF;
+  margin-left: 20px;
+}
+
+.pill {
+  border: 2px solid white;
+  border-radius: 8px;
+  color: white;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.categoriesContainer {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/* p {
+  margin-bottom: 20px;
+  margin-right: 60px;
+} */
+
+.content {
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.button {
+  width: 10%;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 10px;
+}

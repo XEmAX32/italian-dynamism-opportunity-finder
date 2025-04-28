@@ -1,0 +1,79 @@
+.cardContainer {
+  color: white;
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  height: 15vh;
+  justify-content: left;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.cardImage {
+  width: calc(15vh - 5px);
+  height: calc(15vh - 5px);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  margin-left: 5px;
+  flex-shrink: 0;
+}
+
+.cardContent {
+  height: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.cardTitle {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: .5rem;
+}
+
+.cardSubtitle {
+  font-size: 0.8rem;
+}
+
+.cardMore {
+  text-align: right;
+  text-decoration: underline;
+  font-size: 0.8rem;
+}
+
+.truncate-overflow {
+  --max-lines: 4;
+  line-height: var(--lh);
+  position: relative;
+  max-height: calc(var(--lh) * var(--max-lines));
+  overflow: hidden;
+  padding-right: 1rem;
+}
+.truncate-overflow::before {
+  position: absolute;
+  content: "...";
+  bottom: 0;
+  right: 0;
+}
+.truncate-overflow::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  width: 1rem;
+  height: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .cardContainer {
+    width: 100%;
+    height: 20vh;
+  }
+
+  .cardContent {
+    height: 20vh;
+  }
+}

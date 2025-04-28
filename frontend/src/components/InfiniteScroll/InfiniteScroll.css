@@ -1,0 +1,10 @@
+.InfiniteScrollContainer {
+  /* margin-top: 20px; */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 0 10px 0 10px;
+  margin: 20px auto 0 20px;
+  flex-direction: center;
+  justify-content: center;
+}

@@ -1,0 +1,191 @@
+:root {
+  --lh: 1.4rem;
+}
+
+body {
+  background-color: black;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.chatContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  min-width: 40%;
+}
+
+.messagesListContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 0 60px;
+  overflow-y: scroll;
+  
+}
+
+.interactionContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+button {
+  background-color: black;
+  border: none;
+}
+
+input {
+  border: none
+}
+
+input:focus {
+  outline: none;
+}
+
+input::selection {
+  background: #FFF; /* WebKit/Blink Browsers */
+}
+input::-moz-selection {
+  background: #FFF; /* Gecko Browsers */
+}
+
+.searchInput {
+  background-color: black;
+  width: 100%;
+  color: white;
+}
+
+.searchInput:focus {
+  border-color: white;
+}
+
+.draggableSeparator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 0;
+  border: 1px solid white;
+}
+
+.draggableSeparatorIcon {
+  position: absolute;
+  height: 50%;
+  background-color: black;
+  border-radius: 20px;
+  height: 35px;
+  width: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid white;
+}
+
+.historyContainer {
+  min-width: 20%;
+  color: white;
+  padding: 20px;
+  overflow-y: scroll;
+  background-color: black;
+}
+
+.interactionContainer {
+  margin-bottom: 20px;
+}
+
+.magicBorder {
+  border-radius: 5px;
+  background-color: black;
+  border-top-style: inset;
+  border-left-style: inset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-top-color: gray;
+  border-left-color: gray;
+  border-right-color: white;
+  border-bottom-color: white;
+  border-width: 2px;
+}
+
+.interactionBar {
+  display: flex;
+  flex-direction: row;
+  width: calc(100% - 2 * 60px);
+  padding: 10px;
+}
+
+.formContainer {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.closeBtn {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+}
+
+@media only screen and (max-width: 600px) {
+  :root {
+    font-size: 16px;
+  }
+  .container {
+    flex-direction: column-reverse;
+    align-items: center;
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  .draggableSeparator {
+    height: 0;
+    width: 100vw;
+  }
+
+  .chatContainer {
+    width: 100%;
+  }
+
+  .historyContainer {
+    padding: 0;
+    padding-top: 20px;
+    padding-left: 20px;
+    position: absolute;
+    z-index: 99999;
+    top: 0;
+    height: 100vh;
+  }
+
+  .formContainer {
+    margin-left: -20px !important;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  .messageSender, .messageContent {
+    font-size: 16px;
+  } 
+
+  .interactionContainer {
+    margin-bottom: 20px;
+  }
+}

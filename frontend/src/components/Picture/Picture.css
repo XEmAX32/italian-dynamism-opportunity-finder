@@ -1,0 +1,18 @@
+.imageContainer {
+  display: flex;
+  width: calc(15vh - 5px);
+  height: calc(15vh - 5px);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  margin-left: 5px;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.imageTitlte {
+  font-size: 30px;
+  font-weight: bold;
+}

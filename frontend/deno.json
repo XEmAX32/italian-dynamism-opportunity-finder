@@ -1,0 +1,16 @@
+{
+  "tasks": {
+    "dev": "deno run -A --unstable --node-modules-dir npm:vite",
+    "build": "deno run -A --unstable --node-modules-dir npm:vite build",
+    "preview": "deno run -A --unstable --node-modules-dir npm:vite preview",
+    "serve": "deno run --allow-net --allow-read https://deno.land/std@0.157.0/http/file_server.ts dist/"
+  },
+  "deploy": {
+    "project": "ce3bc433-afef-4a73-8c1e-2c3991e82f6a",
+    "exclude": [
+      "**/node_modules"
+    ],
+    "include": [],
+    "entrypoint": "https://deno.land/std@0.224.0/http/file_server.ts"
+  }
+}

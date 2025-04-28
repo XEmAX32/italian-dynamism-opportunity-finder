@@ -1,0 +1,52 @@
+html, body, #root {
+  background-color: black;
+  height: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100%;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.bubble {
+  background-color: white;
+  border-radius: 50%;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1), 0 3px 10px rgba(0, 0, 0, 0.1);
+  height: 152px;
+  margin-right: 20px;
+  width: 152px;
+  background-image: url(../assets/SVF.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+.bubbles {
+  height: 600px;
+  overflow: hidden;
+  position: relative;
+}
+
+.bubbles-wrapper {
+  background-color: salmon;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.company-1 {
+  background-position: -154px 0;
+}
+
+.company-2 {
+  background-position: -308px 0;
+}
+
+.company-3 {
+  background-position: -462px 0;
+}
